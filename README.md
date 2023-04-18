@@ -51,9 +51,6 @@ Big-O = O(4 + 5n) = O(n)
 
 **O(n^2)**
 ```python
-# Log all pairs of array
-boxes = ['a','b','c','d','e']
-
 def log_all_pairs_of_array(array: list) -> None:
     for i in array:
         for j in array:
