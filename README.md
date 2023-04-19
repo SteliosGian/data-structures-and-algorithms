@@ -101,9 +101,16 @@ def dummy_function(input: list) -> list:
 ## Data Structures
 
 * Arrays
-* 
+* Stacks
+* Queues
+* Linked Lists
+* Trees
+* Graphs
+* Hash Tables
 
 ## Algorithms
 
-* 
-* 
+* Sorting
+* Dynamic Programming
+* BFS + DFS (Searching)
+* Recursion
