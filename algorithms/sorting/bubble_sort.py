@@ -1,5 +1,5 @@
 """
-Bubble Sort Algorithm
+Bubble Sort Sorting Algorithm
 """
 
 
